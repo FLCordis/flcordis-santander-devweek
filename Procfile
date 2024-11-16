@@ -1,0 +1,1 @@
+web: java -jar build/libs/flcordis-santander-devweek-0.0.1-SNAPSHOT.jar
